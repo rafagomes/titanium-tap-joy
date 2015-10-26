@@ -1,5 +1,6 @@
 Titanium Module for IOS and Android
 ================
+#NOT MAINTAINED ANYMORE.
 
 Tapjoy working module for Appcelerator Titanium
 
